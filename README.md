@@ -1,0 +1,2 @@
+# Image-text-and-LLM-attacks-on-Multi-Modal-Fake-News-Detection
+This research evaluates the feasibility and resilience of three multimodal frameworks: (long) BERT-VGG, CNN-VGG, and LSTMVGG, using two benchmark data sets, D1 and RECOVERY. By subjecting these models to diverse adversarial conditions, including ten image-based and five text-based attacks, 2 text based adversarial attacks using LLAMA3
